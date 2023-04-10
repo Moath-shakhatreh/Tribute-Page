@@ -1,0 +1,59 @@
+main{
+    background : #ebebeb ;
+    padding : 5px 20px 5px 20px ;
+    border-radius: 10px;
+    margin : 15px 2px 15px 2px
+  
+  
+  } 
+  h1 {
+  text-align: center;
+  padding-bottom : -10px 
+  }
+  #description {
+    text-align: center; 
+  }
+  #img-div {
+    /* border-radius: 10px; */
+    background : white;
+    padding : 10px 10px 5px 10px ;
+    width : 50% ;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+  #image {
+    display : block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:  100%;
+    height: auto; 
+    object-fit: cover; 
+  }
+  #img-caption{
+    text-align: center;
+    padding-top: 4px;
+  }
+  
+  #Contribution{
+   text-align: center;
+  }
+  
+  #tribute-info{
+    /* text-align: center; */
+    padding-left:20%;
+    padding-right : 20%
+  }
+  
+  #list {
+    margin-left: -25px  
+  } 
+  
+  #second-list{
+   margin-left: -35px  
+  }
+  
+  #more-inf{
+    margin-top: 100px ;
+    text-align : center
+  }
